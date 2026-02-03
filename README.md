@@ -246,7 +246,7 @@ margin: 20px;
 <!-- Page 1: Initial Question -->
 <div class="page active" id="page1">
 <div class="card">
-<h1>💕 Hey yourname, will you be my Valentine? 💕</h1>
+<h1>💕 Hey georgia, will you be my Valentine? 💕</h1>
 <button class="yes" onclick="goToPage(2)">Yes! 💖</button>
 <button class="no" id="noBtn">No 😢</button>
 </div>
