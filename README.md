@@ -258,7 +258,7 @@ margin: 20px;
 <div class="letter-header">
 <h2>💌 A Letter Just For You 💌</h2>
 </div>
-<p>Dear yourname,</p>
+<p>Dear georgia,</p>
 <p>From the moment I first saw you, I knew there was something special about you. Your smile lights up my world like sunshine breaking through clouds on a rainy day.</p>
 <p>Every moment with you feels like a beautiful dream I never want to wake up from. You make ordinary days feel extraordinary, and you bring joy to my heart in ways I never knew were possible.</p>
 <p>So today, I'm asking... will you let me be your Valentine? 💕</p>
@@ -287,7 +287,7 @@ margin: 20px;
 <div class="letter-header">
 <h2>✨ More Reasons Why ✨</h2>
 </div>
-<p>Hey yourname,</p>
+<p>Hey georgia,</p>
 <p>I love the way you laugh - it's like music to my ears. I love how you make me feel comfortable being myself. I love your kindness, your warmth, and the way you care about the people around you.</p>
 <p>Being with you feels like coming home. You're my happy place, my comfort, and my favorite person to talk to about anything and everything.</p>
 <p>I promise to make you smile, to support you through everything, and to cherish every moment we spend together. 💕</p>
@@ -316,7 +316,7 @@ margin: 20px;
 <div class="letter-header">
 <h2>💝 One Last Thing... 💝</h2>
 </div>
-<p>My Dearest yourname,</p>
+<p>My Dearest georgia,</p>
 <p>I know I might seem a little insecure (okay, maybe a lot insecure!), but that's only because you mean so much to me. You deserve someone who will appreciate you, make you laugh, and be there for you always.</p>
 <p>I want to be that person for you. I want to create beautiful memories together, go on adventures, have movie nights, share inside jokes, and just enjoy every precious moment by your side.</p>
 <p>So please, would you make this Valentine's Day (and every day after) special by being mine? 💕</p>
